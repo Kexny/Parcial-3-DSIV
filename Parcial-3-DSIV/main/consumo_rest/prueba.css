@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Pixelify Sans';
+    background-color: hsl(85, 73%, 45%);
+    ;}
+.nivel1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+}
+.izquierda{
+    justify-content: center;
+    height: 500px;
+    width: 50%;
+display: flex;
+flex-direction: column;
+min-width: 200px;
+}
+.fotoi{
+    display: flex;
+    justify-content: start;
+    height: 70%;
+    width: 90%;
+    background-image: url(https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2023/10/minecrat-mobs-criaturas-votar-2023.jpg);
+    background-size: 100% 100%;
+    border-bottom-right-radius: 30%; 
+    border-top-right-radius: 30%;   
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    float: left;
+    text-align: justify;
+    justify-content:space-evenly;
+    background-color: #ffffff;
+    border: 4px solid black;
+    padding: 5px;
+}
+.derecha{
+    justify-content: center;
+    height: 500px;
+width: 50%;
+display: flex;
+flex-direction: column;
+min-width: 200px;
+}
+.fotod{
+    display: flex;
+    justify-content: center;
+}
+.nivel2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+}
+.foto2{
+    display: flex;
+    justify-content: center;
+}
+.texto2{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    text-align: justify;
+    justify-content:space-evenly;
+    background-color: #ffffff;
+    border: 4px solid black;
+    padding: 5px;
+}
+.nivel3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    float: left;
+    text-align: justify;
+    justify-content:space-evenly;
+    background-color: #ffffff;
+    border: 4px solid black;
+    padding: 5px;
+    width: 100%;
+    height: 50%;
+    
+}
+.arribaa{
+    justify-content: center;
+    height: 100px;
+width: 100%;
+display: flex;
+flex-direction: row;
+min-width: 200px;
+}
+.nivel4{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+    
+}
+.arriba{
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 0 auto;
+width: 100%;
+display: flex;
+min-width: 300px;
+}
+.fotos{
+    display: flex;
+    justify-content: center;
+    min-width: 300px;
+    margin-bottom: 30px;
+}
+.abajo{
+    justify-content: center;
+    height: 300px;
+width: 100%;
+display: flex;
+flex-direction: column;
+min-width: 200px;
+}
+.nivel5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+}
+
+.textoo{
+    display: flex;
+    justify-content: center;
+    float: left;
+    text-align: justify;
+    justify-content:space-evenly;
+    background-color: #ffffff;
+    border: 4px solid black;
+    margin: 20px;
+    height: auto;
+    width: 400px;
+}
